@@ -1,8 +1,12 @@
 
 body{
-	background-color: #444444;
+	background-color: white;
+	color: black;
 	color-family: Arial, Hlvetica, sans-serif;
-	margin: 10%;
+	margin: 10% 10%;
+	
+	
+	
 }
 .exp-header{
 	text-align: center;
@@ -10,4 +14,16 @@ body{
 	border-top: 1px solid #dddddd;
 	border-bottom: 1px solid #dddddd;
 	background-color:rgba(0,0,0,0.1);
+}
+tr{
+	padding-bottom: 2%;
+}
+td{
+	padding: 2%;
+}
+table{
+	width: 70%;
+}
+hr{
+	border-color: blue;
 }
